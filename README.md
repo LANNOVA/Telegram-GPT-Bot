@@ -1,6 +1,7 @@
-# <Repo Name>
+# Telegram-GPT-Bot
 
-<Repo Name> is a Node.js extension for creating a Telegram bot that utilizes the ChatGPT API for generating AI-powered responses. The bot is designed to work in a Telegram group chat and is authorized for specific user IDs. It can process text messages and generate responses using the ChatGPT API, with support for clearing the conversation history and setting a timeout.
+
+Telegram-GPT-Bot is a Node.js extension for creating a Telegram bot that utilizes the ChatGPT API for generating AI-powered responses. The bot is designed to work in a Telegram group chat and is authorized for specific user IDs. It can process text messages and generate responses using the ChatGPT API, with support for clearing the conversation history and setting a timeout.
 
 ## Installation
 
@@ -37,11 +38,8 @@ You can configure the behavior of the bot by modifying the constants defined in 
 
 ## Contributing
 
-Contributions to <Repo Name> are welcome! If you would like to contribute, please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions to Telegram-GPT-Bot are welcome! If you would like to contribute, please follow the [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-<Repo Name> is released under the [MIT License](LICENSE).
 
 ## DONATE SRAVstudios
 
